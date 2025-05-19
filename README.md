@@ -23,7 +23,7 @@ After installing the software, you can run the Arity/Prolog32 interpreter by typ
 
 To run the expert system application, `imgexp.ari` Prolog file, download it from the section on GitHub. Go to the directory where you put the `imgexp.ari` file after downloading and run the `api32.exe` interpreter, see **Figure 1**.
 
-In the interpreter, type in Alt-F and select File > Consult File … In the dialog box that pops up, type in the filename `imgexp.ari`, see **Figure 2**. To start the expert system  type `?- begin.`, see **Figure 3**.
+In the interpreter, type in Alt-F and select File > Consult File … In the dialog box that pops up, type in the filename `imgexp.ari`, see **Figure 2**. To start the expert system  type `?- begin.` Do not type the `?-`, it is the Prolog interpreter prompt. See **Figure 3**.
 
 Now, you can interact with the expert system, trying out various tool combinations using the thresholding method for edge enhancement, See **Figure 4**.
 
